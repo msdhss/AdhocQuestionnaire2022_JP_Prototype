@@ -1,4 +1,4 @@
 AuthType	Basic
-AuthUserFile	"c:/Program Files/Apache Software Foundation/Apache2.2/htdocs/dynamic_evaluation/usrman/users.dat"
+AuthUserFile	".../usrman/users.dat"
 AuthName	"Private Pages"
 Require		valid-user
