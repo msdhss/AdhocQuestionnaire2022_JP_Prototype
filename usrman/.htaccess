@@ -1,0 +1,4 @@
+Options	-Indexes
+<Files users.dat>
+deny from all
+</Files>

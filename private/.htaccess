@@ -1,0 +1,4 @@
+AuthType	Basic
+AuthUserFile	/home/msdhss/www/adhocQuestionnaire2022_JP_prototype/usrman/.users
+AuthName	"Private Pages"
+Require		valid-user
